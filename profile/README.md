@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/50/fb/dc50fb24-1606-0d17-8174-34d669483a25/Icon.png/1200x630bb.png" width="200" alt="Ftp-Serv macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Ftp-Serv">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Ftp-Serv">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Ftp-Serv macOS page">
  </a><br><br>
  <div align="center">
